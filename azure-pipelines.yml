@@ -1,3 +1,4 @@
+#Silgle line yaml comment
 trigger:
   - '*'
   
